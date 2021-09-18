@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhope_to_be_happy=self.webpackChunkhope_to_be_happy||[]).push([[678],{7704:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(7294);function l(){return u.createElement("section",null,u.createElement("div",null,"Hello!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-fef681878f08173f131f.js.map
